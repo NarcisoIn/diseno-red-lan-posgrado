@@ -16,15 +16,15 @@ Diseño documental de una red LAN de dos pisos con segmentación por VLANs, dire
 
 ## Diagrama lógico
 
-![Diagrama lógico de red](img/diagrama-logico.png)
+![Diagrama lógico de red](img/diagrama-logico.jpg)
 
 ## Diagrama físico
 
-![Diagrama físico de red](img/diagrama-fisico.png)
+![Diagrama físico de red](img/diagrama-fisico.jpg)
 
 ## Diagrama de rack
 
-![Diagrama de rack 18U](img/diagrama-rack.png)
+![Diagrama de rack 18U](img/diagrama-rack.jpg)
 
 ## VLANs
 
